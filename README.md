@@ -1,2 +1,2 @@
 # school-portal
-Private School-portal built with laravel
+School portal demo application build with laravel
